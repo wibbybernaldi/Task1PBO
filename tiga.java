@@ -4,25 +4,25 @@ public class tiga {
         int angka=6;
 
         System.out.println("Angka yang anda masukkan : " + angka);
-        System.out.println("Jadi : ");
+        
         if (angka==1){
             System.out.println("satu");
         }else if (angka==2){
-            System.out.println("satu,dua");
+            System.out.println("dua");
         }else if (angka==3){
-            System.out.println("satu,dua,tiga");
+            System.out.println("tiga");
         }else if (angka==4){
-            System.out.println("satu,dua,tiga,empat");
+            System.out.println("empat");
         }else if (angka==5){
-            System.out.println("satu,dua,tiga,empat,lima");
+            System.out.println("lima");
         }else if (angka==6){
-            System.out.println("satu,dua,tiga,empat,lima,enam");
+            System.out.println("enam");
         }else if (angka==7){
-            System.out.println("satu,dua,tiga,empat,lima,enam,tujuh");
+            System.out.println("tujuh");
         }else if (angka==8){
-            System.out.println("satu,dua,tiga,empat,lima,enam,tujuh,delapan");
+            System.out.println("delapan");
         }else if (angka==9){
-            System.out.println("satu,dua,tiga,empat,lima,enam,tujuh,delapan,sembilan");
+            System.out.println("sembilan");
         }else {
             System.out.println("maaf hanya sampai 9");
         }

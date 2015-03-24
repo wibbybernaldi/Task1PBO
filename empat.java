@@ -1,5 +1,5 @@
 
-public class tigab {
+public class empat {
     public static void main(String[] args) {
         int angka=7;
         System.out.println("Angka yang anda masukkan : " + angka);
